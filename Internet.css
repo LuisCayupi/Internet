@@ -1,0 +1,241 @@
+*c {
+    outline: 1px dotted red;
+}
+
+#conteiner {
+    width: 980px;
+    background: linear-gradient(rgb(230, 230, 230), rgb(255, 255, 255)));
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#head {
+    width: 980px;
+    height: 119px;
+}
+
+.globe {
+    position: absolute;
+    width: 90px;
+    margin-left: 15px;
+}
+
+.head {
+    width: 880px;
+    height: 50px;
+    display: inline-block;
+    margin-top: 25px;
+    margin-left: 100px;
+    margin-bottom: 0px;
+    font-weight: 100;
+    font-size: 40px;
+}
+
+.azul {
+    color: rgb(64, 122, 171);
+}
+
+.subhead {
+    background: radial-gradient( rgb(117, 139, 156), rgb(44, 108, 161));
+    display: block;
+    padding: 8px 0px 8px 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: 100;
+    color: white;
+    box-shadow: 0px 20px 5px rgb(231, 231, 231);
+}
+
+#links {
+    width: 187px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#links h4 {
+    font-size: 14px;
+}
+
+.rojo {
+    color: rgb(217, 37, 31);
+}
+
+.contentlink {
+    margin-bottom: 15px;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#links a {
+    width: 155px;
+    display: block;
+    text-align: center;
+    font-weight: 600;
+    padding: 10px;
+    color: white;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px rgb(32, 32, 32);
+}
+
+.linkazul {
+    background: radial-gradient( rgb(91, 148, 199), rgb(52, 115, 169));
+    margin: 5px;
+}
+
+.linkamarillo {
+    background: radial-gradient( rgb(231, 163, 79), rgb(238, 140, 17));
+    margin: 0px 0px 30px 5px;
+}
+
+.textimg {
+    position: absolute;
+    width: 187px;
+    padding-top: 25px;
+    text-align: center;
+    font-size: 22px;
+    color: white;
+    font-weight: 500;
+}
+
+.ninja {
+    position: absolute;
+    width: 90px;
+    padding-top: 110px;
+    padding-left: 50px;
+}
+
+.bckgrnd {
+    width: 187px;
+    padding-top: 30px;
+    border-top: silver solid 2px;
+}
+
+.learn {
+    position: absolute;
+    background: radial-gradient( rgb(85, 204, 223), rgb(48, 200, 223));
+    box-shadow: 3px 3px 5px rgb(14, 13, 13);
+    margin-top: 240px;
+    margin-left: 5px;
+}
+
+#content {
+    vertical-align: top;
+    display: inline-block;
+    width: 763px;
+    margin-top: 0px;
+    margin-left: 10px;
+    padding-top: 0px;
+}
+
+.home {
+    display: inline-block;
+    vertical-align: top;
+    text-decoration: none;
+    color: rgb(52, 113, 165);
+}
+
+.imghome {
+    width: 15px;
+    margin-top: 10px;
+}
+
+.phone {
+    display: inline-block;
+    vertical-align: top;
+    width: 40px;
+    margin-left: 524px;
+    margin-top: 5px;
+}
+
+.horario {
+    vertical-align: top;
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    text-align: right;
+    font-size: 10px;
+}
+
+.numero {
+    font-size: 23px;
+    font-weight: bold;
+    color: rgb(97, 209, 227);
+}
+
+#content h3 {
+    color: rgb(50, 112, 165);
+}
+
+.titulo {
+    padding-top: 5px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-top: solid silver 1px;
+}
+
+.parrafo {
+    padding: 0px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.celeste {
+    color: rgb(25, 161, 182);
+}
+
+#content ul {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+#content li {
+    margin-bottom: 0px;
+}
+
+.client {
+    margin-left: 215px;
+    width: 295px;
+}
+
+.titulo2 {
+    padding: 0px;
+    margin: 0px 0px 5px 5px;
+}
+
+#content ol {
+    margin-top: 5px;
+}
+
+#pie {
+    border: rgb(0, 133, 224) solid 5px;
+    border-bottom: none;
+}
+
+#pie img {
+    display: inline-block;
+    width: 145px;
+    margin: 10px 0px 10px 10px;
+}
+
+#pie p {
+    display: inline-block;
+    vertical-align: top;
+    width: 588px;
+    margin: 10px 0px 0px 0px;
+}
+
+.thebig {
+    color: rgb(50, 112, 165);
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+.cursiva {
+    font-style: oblique;
+}
